@@ -53,10 +53,8 @@ Pricing and support issues major churn reasons
 This project helped me apply my Python, SQL, Excel, and Power BI skills along with my Business Analyst experience to solve real-world problems.
 
 **🔹 Screenshots**
-https://github.com/Shrutisree0409/FUTURE_DS_02/blob/main/Dashboard%20image%201.png
-
-
-
+DASHBOARD 1- https://github.com/Shrutisree0409/FUTURE_DS_02/blob/main/Dashboard%20image%201.png
+DASHBOARD 2- https://github.com/Shrutisree0409/FUTURE_DS_02/blob/main/Dashboard%20image%202.png
 
 **🔹 About Me**
 
