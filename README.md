@@ -54,6 +54,7 @@ This project helped me apply my Python, SQL, Excel, and Power BI skills along wi
 
 **🔹 Screenshots**
 DASHBOARD 1- https://github.com/Shrutisree0409/FUTURE_DS_02/blob/main/Dashboard%20image%201.png
+
 DASHBOARD 2- https://github.com/Shrutisree0409/FUTURE_DS_02/blob/main/Dashboard%20image%202.png
 
 **🔹 About Me**
